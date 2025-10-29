@@ -2,8 +2,6 @@
 
 ## - 🤔 I'm currently studying at ITMO University, previously studied at FEFU school.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshaptisa)](https://git.io/streak-stats)
-
 ### Mostly I write ✍🏻
 - Python
 
