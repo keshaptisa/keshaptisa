@@ -17,10 +17,8 @@
   <div style="background-color: rgba(255,255,255,0.7); padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
     <h3>I'm currently studying at ITMO University</h3>
     <p>Previously studied at FEFU school.</p>
-    <h4>Mostly I write:</h4>
+    <h4>Mostly I write Python</h4>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>Python</li>
-      <li>C</li>
     </ul>
   </div>
 
