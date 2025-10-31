@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Hi+there+👋;+I'm+Keshaptisa!;+Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Hi+there+👾;+I'm+Keshaptisa!;+Welcome+to+my+profile!" alt="Typing SVG" />
 </h2>
 
 
@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://github.com/keshaptisa"><img src="https://img.shields.io/badge/GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/keshaptisa"><img src="https://img.shields.io/badge/Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:dmitriykeshon@gmail.com"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
