@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C084FC&lines=Hey+all)](https://git.io/typing-svg)
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Hi+there+👋;+I'm+Keshaptisa!;+Welcome+to+my+profile!" alt="Typing SVG" />
 </h2>
@@ -18,15 +16,11 @@
 ![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=6a5acd&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keshaptisa&theme=violet-punch)](https://git.io/streak-stats)
-
-[![Keshaptisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshaptisa&bg_color=ffffff&color=6a0dad&line=c084fc&point=8b5cf6&area=true&hide_border=true)](https://github.com/keshaptisa)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=transparent&title_color=6a0dad&text_color=2d2d2d&icon_color=8b5cf6&border_color=d0c4ff)
 
 ### 🛠️ Tech Stack
 
