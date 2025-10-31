@@ -5,7 +5,6 @@
   border-radius: 25px;
   box-shadow: 0 0 40px rgba(192, 132, 252, 0.4);
   font-family: 'Fira Code', monospace;
-  color: #4B0082;
 ">
 
   <!-- 💜 HEADER -->
@@ -15,26 +14,26 @@
     </h2>
   </div>
 
-  <!-- ABOUT -->
-  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3 style="color:#4B0082;">I'm currently studying at ITMO University</h3>
-    <p style="color:#4B0082;">Previously studied at FEFU school.</p>
-    <h4 style="color:#4B0082;">Mostly I write Python</h4>
+  <!-- 🧠 ABOUT -->
+  <div style="background-color: rgba(255,255,255,0.75); padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3><font color="#4B0082">I'm currently studying at ITMO University</font></h3>
+    <p><font color="#4B0082">Previously studied at FEFU school.</font></p>
+    <h4><font color="#4B0082">Mostly I write Python</font></h4>
   </div>
 
-  <!-- GITHUB STATS -->
-  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3 style="color:#4B0082;">My GitHub Stats</h3>
+  <!-- 📊 GITHUB STATS -->
+  <div style="background-color: rgba(255,255,255,0.75); padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3><font color="#4B0082">My GitHub Stats</font></h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&count_private=true&v=13&bg_color=ffffff&title_color=4b0082&text_color=4b0082&icon_color=7e22ce&border_color=d0c4ff" height="160px"/>
   </div>
 
-  <!-- TOP LANGUAGES -->
-  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3 style="color:#4B0082;">Top Languages</h3>
+  <!-- 🪄 TOP LANGUAGES -->
+  <div style="background-color: rgba(255,255,255,0.75); padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3><font color="#4B0082">Top Languages</font></h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=4b0082&text_color=4b0082&icon_color=7e22ce&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false" height="160px"/>
   </div>
 
-  <!-- 🌌 PURPLE TIGRESS DIVIDER -->
+  <!-- 🌌 PURPLE TIGRESS -->
   <div style="margin: 40px 0;">
     <img src="https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp"
          width="450"
