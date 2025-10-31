@@ -15,19 +15,6 @@
 ### Top Languages
 ![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=6a5acd&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false)
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,nodejs,html,css,figma,github,vscode&theme=light" />
-</p>
-
 <p align="center">
   <a href="https://github.com/keshaptisa"><img src="https://img.shields.io/badge/GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
