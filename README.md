@@ -6,11 +6,10 @@
 - Python
 - C
 
-
 ### 📊 My GitHub Stats
-![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=radical&count_private=true&v=11)
+![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=swift&count_private=true&v=12)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=radical&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&count_private=true&langs_count=6&v=11)
+![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=swift&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&count_private=true&langs_count=6&v=12)
 
 
