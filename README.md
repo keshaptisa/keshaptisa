@@ -4,8 +4,8 @@
   padding: 50px 20px;
   border-radius: 25px;
   box-shadow: 0 0 40px rgba(192, 132, 252, 0.4);
-  color: #4b0082;
   font-family: 'Fira Code', monospace;
+  color: #4B0082;
 ">
 
   <!-- 💜 HEADER -->
@@ -16,21 +16,21 @@
   </div>
 
   <!-- ABOUT -->
-  <div style="background-color: rgba(255,255,255,0.7); color:#4b0082; padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>I'm currently studying at ITMO University</h3>
-    <p>Previously studied at FEFU school.</p>
-    <h4>Mostly I write Python</h4>
+  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3 style="color:#4B0082;">I'm currently studying at ITMO University</h3>
+    <p style="color:#4B0082;">Previously studied at FEFU school.</p>
+    <h4 style="color:#4B0082;">Mostly I write Python</h4>
   </div>
 
   <!-- GITHUB STATS -->
-  <div style="background-color: rgba(255,255,255,0.7); color:#4b0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>My GitHub Stats</h3>
+  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3 style="color:#4B0082;">My GitHub Stats</h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&count_private=true&v=13&bg_color=ffffff&title_color=4b0082&text_color=4b0082&icon_color=7e22ce&border_color=d0c4ff" height="160px"/>
   </div>
 
   <!-- TOP LANGUAGES -->
-  <div style="background-color: rgba(255,255,255,0.7); color:#4b0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>Top Languages</h3>
+  <div style="background-color: rgba(255,255,255,0.75); color:#4B0082; padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
+    <h3 style="color:#4B0082;">Top Languages</h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=4b0082&text_color=4b0082&icon_color=7e22ce&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false" height="160px"/>
   </div>
 
@@ -50,4 +50,5 @@
     <a href="https://t.me/keshaptisa"><img src="https://img.shields.io/badge/Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="mailto:dmitriykeshon@gmail.com"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
+
 </div>
