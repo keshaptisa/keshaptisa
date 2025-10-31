@@ -13,25 +13,26 @@
     </h2>
   </div>
 
-  <!-- 🐾 ABOUT -->
+  <!--  ABOUT -->
   <div style="background-color: rgba(255,255,255,0.7); padding:25px; border-radius:15px; margin:30px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>🎓 I'm currently studying at ITMO University</h3>
+    <h3>I'm currently studying at ITMO University</h3>
     <p>Previously studied at FEFU school.</p>
-    <h4>🖋️ Mostly I write:</h4>
+    <h4>Mostly I write:</h4>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>🐍 Python</li>
+      <li>Python</li>
+      <li>C</li>
     </ul>
   </div>
 
-  <!-- 📊 GITHUB STATS -->
+  <!--  GITHUB STATS -->
   <div style="background-color: rgba(255,255,255,0.7); padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>📊 My GitHub Stats</h3>
+    <h3> My GitHub Stats</h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&count_private=true&v=13&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=8b5cf6&border_color=d0c4ff" height="160px"/>
   </div>
 
-  <!-- 🧠 TOP LANGUAGES -->
+  <!-- TOP LANGUAGES -->
   <div style="background-color: rgba(255,255,255,0.7); padding:25px; border-radius:15px; margin:20px 0; width:80%; box-shadow: 0 0 15px #d0bfff;">
-    <h3>🧠 Top Languages</h3>
+    <h3> Top Languages</h3>
     <img src="https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=8b5cf6&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false" height="160px"/>
   </div>
 
