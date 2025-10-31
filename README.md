@@ -1,13 +1,12 @@
 <!-- 💜 HEADER -->
 <div align="center" style="background: linear-gradient(135deg, #e9d5ff, #c084fc, #a855f7, #7e22ce); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 25px #c084fc;">
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4C2FF&center=true&vCenter=true&width=435&lines=Hi+there+👾;+I'm+Keshaptisa!;+Welcome+to+my+profile!" alt="Typing SVG" />
+  font=Fira+Code&weight=600&size=28&pause=1000&color=F4C2FF&center=true&vCenter=true&width=435&lines=Hi+there+👾;+I'm+Keshaptisa!;+Welcome+to+my+profile!" alt="Typing SVG" />
   </h2>
 </div>
 
 <!-- ✨ ANIMATED DIVIDER -->
 <div align="center">
-  <img src="https://i.imgur.com/8GQ9g9x.gif" width="500" alt="divider animation" />
 </div>
 
 <!-- 🐾 ABOUT -->
