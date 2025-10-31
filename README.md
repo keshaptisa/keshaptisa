@@ -7,9 +7,9 @@
 - C
 
 ### 📊 My GitHub Stats
-![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=swift&count_private=true&v=12)
+![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&count_private=true&v=13&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=6a5acd&border_color=d0c4ff)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=swift&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&count_private=true&langs_count=6&v=12)
+![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=13&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=6a5acd&border_color=d0c4ff)
 
 
