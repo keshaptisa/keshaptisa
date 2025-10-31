@@ -9,4 +9,5 @@
 ![Keshaptisa's GitHub stats](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=tokyonight)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=radical&exclude_repo=github-readme-stats&v=3)
+
