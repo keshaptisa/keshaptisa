@@ -29,10 +29,15 @@
   <img src="https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&count_private=true&exclude_repo=github-readme-stats,github-my-readme-stats&exclude_forks=true&langs_count=6&v=14&bg_color=ffffff&title_color=5b3cc4&text_color=2d2d2d&icon_color=8b5cf6&border_color=d0c4ff&custom_title=Top%20Languages&theme=transparent&hide_border=false&locale=en&hide_title=false" height="160px"/>
 </div>
 
-<!-- 🌌 NEON DIVIDER -->
-<div align="center">
-  <img src="[[https://i.imgur.com/Yx0sZyE.gif](https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphotopole.ru%2Fkrasivye-kartinki%2Ffioletovyy-leopard&psig=AOvVaw0QcehegXAu8J_k8r0oUMBB&ust=1762018652659000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjKwZX9zpADFQAAAAAdAAAAABAE)" width="450" alt="purple divider" />
+<!-- 🌌 PURPLE TIGRESS DIVIDER -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp"
+       width="450"
+       alt="purple tigress"
+       style="border-radius: 15px;
+              box-shadow: 0 0 20px #c084fc, 0 0 40px #a855f7, 0 0 60px #7e22ce;" />
 </div>
+
 
 <!-- 💬 CONTACT -->
 <p align="center">
