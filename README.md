@@ -51,19 +51,3 @@
     <a href="https://t.me/keshaptisa"><img src="https://img.shields.io/badge/Telegram-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="mailto:dmitriykeshon@gmail.com"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
-
-  <!-- 🐱 FOOTER -->
-  <div style="margin-top: 20px;">
-    <img src="https://i.imgur.com/T9R3eHs.gif" width="120" alt="waving cat" />
-  </div>
-
-  <!-- 💜 PULSE ANIMATION -->
-  <style>
-    @keyframes pulseGlow {
-      0% { box-shadow: 0 0 15px #c084fc, 0 0 30px #a855f7, 0 0 45px #7e22ce; }
-      50% { box-shadow: 0 0 25px #c084fc, 0 0 50px #a855f7, 0 0 75px #7e22ce; }
-      100% { box-shadow: 0 0 15px #c084fc, 0 0 30px #a855f7, 0 0 45px #7e22ce; }
-    }
-  </style>
-
-</div>
