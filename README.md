@@ -31,7 +31,7 @@
 
 <!-- 🌌 NEON DIVIDER -->
 <div align="center">
-  <img src="[https://i.imgur.com/Yx0sZyE.gif](https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp)" width="450" alt="purple divider" />
+  <img src="[[https://i.imgur.com/Yx0sZyE.gif](https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphotopole.ru%2Fkrasivye-kartinki%2Ffioletovyy-leopard&psig=AOvVaw0QcehegXAu8J_k8r0oUMBB&ust=1762018652659000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjKwZX9zpADFQAAAAAdAAAAABAE)" width="450" alt="purple divider" />
 </div>
 
 <!-- 💬 CONTACT -->
