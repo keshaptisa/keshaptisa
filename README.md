@@ -31,7 +31,7 @@
 
 <!-- 🌌 NEON DIVIDER -->
 <div align="center">
-  <img src="https://i.imgur.com/Yx0sZyE.gif" width="450" alt="purple divider" />
+  <img src="[https://i.imgur.com/Yx0sZyE.gif](https://photopole.ru/wp-content/uploads/purpurnaia-tigritsa-1.webp)" width="450" alt="purple divider" />
 </div>
 
 <!-- 💬 CONTACT -->
