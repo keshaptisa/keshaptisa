@@ -12,7 +12,6 @@
 
 <!-- 🐾 ABOUT -->
 <div align="center" style="background-color:#f8f5ff; padding:25px; border-radius:15px; margin:20px 0;">
-  <img src="https://i.imgur.com/0rKxQ0T.png" width="130" align="right" alt="cute cat" />
   <h3>🎓 I'm currently studying at ITMO University</h3>
   <p>Previously studied at FEFU school.</p>
   
@@ -55,7 +54,3 @@
 <div align="center">
   <img src="https://i.imgur.com/T9R3eHs.gif" width="120" alt="waving cat" />
 </div>
-
----
-
-> 💜 *"Dream in code, live in color."*
