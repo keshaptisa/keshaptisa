@@ -12,5 +12,4 @@
 
 ### 🏆 Top Languages
 
-[![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=radical)](https://github-my-readme-stats-beta.vercel.app/api?username=keshaptisa&show_icons=true&theme=radical)
-
+![Top Langs](https://github-my-readme-stats-beta.vercel.app/api/top-langs/?username=keshaptisa&layout=compact&theme=radical)
